@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\FirstTest.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{FF07B356-949B-4D73-AF10-685FDFF56CD9}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FirstTest.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\FirstTestEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{899B03E8-052F-4F17-96C9-1F1BA96FDF25}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\FirstTest">
+			<UniqueIdentifier>{C9D51C93-0A74-44C0-913F-9D915C769898}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FirstTest\FirstTest.Build.cs">
+			<Filter>Source\FirstTest</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\FirstTest\FirstTest.cpp">
+			<Filter>Source\FirstTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FirstTest\FirstTest.h">
+			<Filter>Source\FirstTest</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FirstTest\FirstTestCharacter.cpp">
+			<Filter>Source\FirstTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FirstTest\FirstTestCharacter.h">
+			<Filter>Source\FirstTest</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FirstTest\FirstTestGameMode.cpp">
+			<Filter>Source\FirstTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FirstTest\FirstTestGameMode.h">
+			<Filter>Source\FirstTest</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

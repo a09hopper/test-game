@@ -1,0 +1,3 @@
+C:\Users\A09hopper\Documents\GitHub\test-game\FirstTest\Source\FirstTest\FirstTest.Build.cs
+C:\Users\A09hopper\Documents\GitHub\test-game\FirstTest\Source\FirstTest.Target.cs
+C:\Users\A09hopper\Documents\GitHub\test-game\FirstTest\Source\FirstTestEditor.Target.cs
